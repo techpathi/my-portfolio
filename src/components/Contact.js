@@ -38,7 +38,7 @@ export default function Contact() {
             marginWidth={0}
             style={{ filter: "opacity(0.7)" }}
             src={
-              "https://www.google.com/maps/embed/v1/place?q=Hyderabad&key=" +
+              "https://www.google.com/maps/embed/v1/place?q=Visakhapatnam&key=" +
               process.env.REACT_APP_MAPS_API_KEY
             }
           />
