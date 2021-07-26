@@ -48,7 +48,7 @@ export default function Contact() {
                 ADDRESS
               </h2>
               <p className="text-white mt-1">
-                Hyderabad <br />
+                Visakhapatnam, <br />
                 Andhra Pradesh, India
               </p>
             </div>
@@ -61,10 +61,6 @@ export default function Contact() {
                   venkat4coding@gmail.com
                 </a>
               </a>
-              <h2 className="title-font font-semibold text-white tracking-widest text-xs mt-4">
-                PHONE
-              </h2>
-              <p className="text-white leading-relaxed">+91 9573764574</p>
             </div>
           </div>
         </div>
